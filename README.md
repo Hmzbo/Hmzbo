@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hammzaboulahia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15qQXqCJF6ZPwdqYFLmBf967eRIDn_vdR/view?usp=sharing](https://drive.google.com/file/d/15qQXqCJF6ZPwdqYFLmBf967eRIDn_vdR/view?usp=sharing)
+- 📄 Know more about my experiences [CV](./CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
