@@ -120,6 +120,7 @@
 ###
 
 <div align="center">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamzamlwh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamzamlwh/0" alt="Recent Article 0"> 
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hamzamlwh&theme=default" alt="Layout with last medium posts"  />
 </div>
 
