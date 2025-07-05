@@ -126,5 +126,6 @@
 
 ###
 
-- 📫 How to reach me **hammzaboulahia@gmail.com**
-- 📄 Know more about my experiences [CV](./CV.pdf)
+<p align="center">
+📫 <strong>hammzaboulahia@gmail.com</strong> | 📄 <a href="./CV.pdf">CV</a>
+</p>
